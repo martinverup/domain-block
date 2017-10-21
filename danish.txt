@@ -1,3 +1,6 @@
-bold.dk/img/v3/bander
-bold.dk/img/tag
-bold.dk/img/widget
+recordere-dk.disqus.com
+iam.doipanel.dk
+tns-gallup.dk
+static-dk.plista.com
+survey.webstatus.v2.userneeds.dk
+ad1.emediate.dk
