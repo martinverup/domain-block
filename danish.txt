@@ -1,0 +1,3 @@
+bold.dk/img/v3/bander
+bold.dk/img/tag
+bold.dk/img/widget
