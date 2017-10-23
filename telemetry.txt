@@ -2,6 +2,8 @@ telemetry.nvidia.com
 gfe.nvidia.com
 telemetry.gfe.nvidia.com
 events.gfe.nvidia.com
+gfwsl.geforce.com
+gfe.geforce.com
 ca.telemetry.microsoft.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
